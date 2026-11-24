@@ -1,0 +1,8 @@
+{
+  "name": "Scientific Calculator",
+  "description": "Advanced Mathematical Computing — Scientific Calculator",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
